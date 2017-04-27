@@ -1,0 +1,1 @@
+Oven thermometer from an ESP8266. HW only for now.
