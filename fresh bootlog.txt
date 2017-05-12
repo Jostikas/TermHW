@@ -1,0 +1,28 @@
+ ets Jan  8 2013,rst cause:2, boot mode:(3,7)<\r><\n>
+<\r><\n>
+load 0x40100000, len 1856, room 16 <\r><\n>
+tail 0<\r><\n>
+chksum 0x63<\r><\n>
+load 0x3ffe8000, len 776, room 8 <\r><\n>
+tail 0<\r><\n>
+chksum 0x02<\r><\n>
+load 0x3ffe8310, len 552, room 8 <\r><\n>
+tail 0<\r><\n>
+chksum 0x79<\r><\n>
+csum 0x79<\r><\n>
+<\r><\n>
+2nd boot version : 1.5<\r><\n>
+  SPI Speed      : 40MHz<\r><\n>
+  SPI Mode       : DIO<\r><\n>
+  SPI Flash Size & Map: 32Mbit(512KB+512KB)<\r><\n>
+jump to run user1 @ 1000<\r><\n>
+<\r><\n>
+rf cal sector: 1017<\r><\n>
+rf[112] : 00<\r><\n>
+rf[113] : 00<\r><\n>
+rf[114] : 01<\r><\n>
+<\r><\n>
+SDK ver: 1.5.4.1(39cb9a32) compiled @ Jul  1 2016 20:04:35<\r><\n>
+phy ver: 972, pp ver: 10.1<\r><\n>
+<\r><\n>
+??h?h?ip?$x???,?q(??8???jtN?

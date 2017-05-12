@@ -1,3 +1,4 @@
 *bak
 *.pdf
 *.bin
+*.build/
